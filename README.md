@@ -1,6 +1,8 @@
 # pc-builder-server
 #live api link
 1. create pc api endpoint = https://pc-builder-server-frz8zqn6j-saymon-shoab.vercel.app/api/v1/pc/createPc
+2. get api endpoint = https://pc-builder-server-frz8zqn6j-saymon-shoab.vercel.app/api/v1/pc/
+   
  json data formate
    {
     "image":"https://i.ibb.co/JF9HVVQ/cpu1.webp",
